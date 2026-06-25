@@ -1,0 +1,17 @@
+# Compiled Binaries and Executables
+*.exe
+*.o
+*.out
+*.so
+*.dylib
+
+# Dev-C++ Workspace / Temporary Files
+*.layout
+*.depend
+.vscode/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
